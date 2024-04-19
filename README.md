@@ -9,10 +9,16 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/QuantumSoham](https://github.com/QuantumSoham)
 
-- 💬 Ask me about **computer science, webdevelopment, machine learning**
+- 💬 Ask me about **computer science, web development, machine learning**
 
-- 📫 How to reach me **chatterjeesoham2003@gmail.com**
-
+- 📫 Reach me at **chatterjeesoham2003@gmail.com**
+  
+- Strong Hands 💪: **HTML, CSS, Javascript, Node Js, React Js**
+  
+- Programming Languages 💻: **C++, C, Java, Python, Javascript**
+- Interests 👨‍💻: **Web development and Technology🛜🌐, Statistical Learning📊, Deep Learning🧠, Computer Hardware and Organization💻**
+- Frameworks worked on🧱: **React (Web Development)🌐, Scikit Learn📈📊, OpenCV📷, Tensorflow🧠**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/soham chatterjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soham chatterjee" height="30" width="40" /></a>
