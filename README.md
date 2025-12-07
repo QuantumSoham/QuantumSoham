@@ -14,9 +14,7 @@
   
 - Strong Hands 💪: **HTML, CSS, Javascript, Node Js, React Js, Next JS, LLM, Lang Chain, Lang Graph, AWS**
   
-- Programming Languages 💻: **C++, C, Java, Python, Javascript**
-- Interests 👨‍💻: **Web development and Technology🛜🌐,  Machine Learning📊, Deep Learning🧠, Agentic AI and RAG, Computer Hardware and Organization💻**
-- Frameworks worked on🧱: **React (Web Development)🌐, Scikit Learn📈📊, OpenCV📷, Tensorflow🧠**
+
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
