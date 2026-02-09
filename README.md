@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **web developmemt and machine learning.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/QuantumSoham](https://github.com/QuantumSoham)
+- 👨‍💻 All of my projects are available at [https://github.com/QuantumSoham](https://github.com/QuantumSoham) 
 
 - 💬 Ask me about **computer science, web development, machine learning**
 
