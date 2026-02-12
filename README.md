@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://github.com/QuantumSoham)
+ [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://github.com/QuantumSoham)
   
 <h1 align="center">Hi, I'm Soham</h1>
 <h3 align="center">A curious mind exploring the cyberspace💻 and writing code for a cause👨‍💻.</h3>
